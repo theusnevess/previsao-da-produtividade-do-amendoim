@@ -1,6 +1,6 @@
 # Previsão da Produtividade do Amendoim: Um Estudo em Machine Learning Agrícola
 
-![Peanut planting]()
+![Peanut planting](https://github.com/theusnevess/previsao-da-produtividade-do-amendoim/blob/main/amendoim-imagem.webp)
 
 ## Bem-vindo ao Projeto de Agricultura de Precisão
 
@@ -67,7 +67,7 @@ Contribuições são incentivadas! Se você deseja propor novas análises, model
 
 ## 📧 Contato
 
-*   **Matheus Neves**: [Seu Email](matheusneves1204@gmail.com) | [LinkedIn](www.linkedin.com/in/matheus-neves-1125632b9) | [Portfólio](https://theusnevess.github.io/Portfolio_Matheus/)
+*   **Matheus Neves**: [Email](matheusneves1204@gmail.com) | [LinkedIn](www.linkedin.com/in/matheus-neves-1125632b9) | [Portfólio](https://theusnevess.github.io/Portfolio_Matheus/)
 
 ---
 
